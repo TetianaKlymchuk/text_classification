@@ -3,9 +3,7 @@
 /uploads
 /notebooks
 *.pem
-*.csv
 *.txt
-*.ipynb
 test-state.json
 test.json
 /tmp
