@@ -12,6 +12,8 @@ test.json
 *.pyc
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*/Data/*
+*/dataset/*
 
 # Node artifact files
 node_modules/
